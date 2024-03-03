@@ -1,9 +1,6 @@
 Sketch-to-Image Conversion using CGAN
 
-![image](https://github.com/Hasibwajid/SKETCH_TO_IMAGE_USING_CGAN/assets/72168225/fe316946-b360-4798-8cc4-1e613412d9df)
-
-
-![image](https://github.com/Hasibwajid/SKETCH_TO_IMAGE_USING_CGAN/assets/72168225/b0717f63-f096-4662-af9a-5cd5121f2fca)
+![image](https://github.com/Hasibwajid/SKETCH_TO_IMAGE_USING_CGAN/assets/72168225/fe316946-b360-4798-8cc4-1e613412d9df)   ![image](https://github.com/Hasibwajid/SKETCH_TO_IMAGE_USING_CGAN/assets/72168225/b0717f63-f096-4662-af9a-5cd5121f2fca)
 
 This project focuses on utilizing a Conditional Generative Adversarial Network (CGAN) model to convert sketches into corresponding images. The dataset used for training consists of pairs sourced from CelebHQ on Kaggle, where images from CelebHQ are paired with hand-drawn sketches.
 
